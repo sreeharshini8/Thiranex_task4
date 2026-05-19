@@ -60,6 +60,10 @@ The following analyses were performed:
 - Scatter Plots
 - Box Plots
 - Histograms
+  <img width="542" height="409" alt="Screenshot 2026-05-20 194347" src="https://github.com/user-attachments/assets/1069009c-8c46-44c2-b5d6-0cb288d7e20d" />
+<img width="507" height="313" alt="Screenshot 2026-05-20 194411" src="https://github.com/user-attachments/assets/b9e44ca5-115f-42f3-a47a-5f03b91e67b4" />
+
+<img width="508" height="227" alt="image" src="https://github.com/user-attachments/assets/ad21786a-e90b-415b-b137-b55205482128" />
 
 ---
 
@@ -78,7 +82,7 @@ Customers were grouped into different segments such as:
 - High-Value Customers
 - Regular Customers
 - Inactive Customers
-<img width="524" height="183" alt="Screenshot 2026-05-20 191907" src="https://github.com/user-attachments/assets/82fc24d2-d8d4-4708-93f3-09d35835fa25" />
+<img width="624" height="183" alt="Screenshot 2026-05-20 191907" src="https://github.com/user-attachments/assets/82fc24d2-d8d4-4708-93f3-09d35835fa25" />
 
 ---
 
